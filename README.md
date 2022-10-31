@@ -1,2 +1,2 @@
-# jens-to-do-app
-Creating a to-do list using TypeScript and Sass 
+# 30-plants-a-week
+Creating an app to track variety of plants eaten over 7 days using TypeScript and Sass.
